@@ -1,8 +1,8 @@
 ## Hello, I'm Shaniya!
 
 
-- 🌐 Portfolio with demos and posters: **[shaniya.me](https://shaniya.me)**
-- 📫 [LinkedIn](https://www.linkedin.com/in/shaniya-thomas) · shaniyat@umich.edu
+- Portfolio with demos and posters: **[shaniya.me](https://shaniya.me)**
+- [LinkedIn](https://www.linkedin.com/in/shaniya-thomas) · shaniyat@umich.edu
 
 ### Featured projects
 
