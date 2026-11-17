@@ -1,4 +1,4 @@
-## Hi, I'm Shaniya 👋
+## Hello, I'm Shaniya!
 
 Computer Engineering student at the **University of Michigan** (B.S.E., May 2027) 
 
